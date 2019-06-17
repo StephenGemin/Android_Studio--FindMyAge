@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Find My Age</string>
+    <string name="inputDOB">Enter DOB</string>
+    <string name="label_outputAge">Your Age is Shown Below</string>
+    <string name="button_getMyAge">Get My Age</string>
+    <string name="yourAge">You are %1$s years old</string>
+
+    <string name="invalid_entry">Invalid Entry</string>
+</resources>
